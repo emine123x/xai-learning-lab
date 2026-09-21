@@ -1,0 +1,7 @@
+LIME top features,LIME contribution,SHAP top features,SHAP contribution
+worst concavity > 0.39,-0.0433,worst perimeter,-0.097
+worst texture > 29.37,-0.0403,worst concavity,-0.0574
+mean texture > 21.71,-0.0275,mean concave points,0.0527
+97.59 < worst perimeter <= 124.95,-0.0236,worst texture,-0.0288
+683.40 < worst area <= 1033.50,-0.0198,mean concavity,-0.0269
+541.80 < mean area <= 770.05,0.0144,worst concave points,0.0233
